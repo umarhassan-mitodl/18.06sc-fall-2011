@@ -1,0 +1,236 @@
+leftnav:
+- identifier: d8efae91-2fd6-02f9-ac2e-2cb9d064d22e
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: df093ac7-c42d-8cf3-3aeb-2ba906d4fedc
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 34303ce1-9b45-7241-22d2-bd33d64df688
+  name: 'Unit I: Ax = b and the Four Subspaces'
+  pageRef: /pages/ax-b-and-the-four-subspaces/
+  weight: 30
+- identifier: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  name: 'Unit II: Least Squares, Determinants and Eigenvalues'
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/
+  weight: 40
+- identifier: 34f596bc-2328-22be-5fba-75646f6970c5
+  name: 'Unit III: Positive Definite Matrices and Applications'
+  pageRef: /pages/positive-definite-matrices-and-applications/
+  weight: 50
+- identifier: a59901ce-cbc5-cc41-0b70-2826dc2ae39b
+  name: Final Course Review
+  pageRef: /pages/final-course-review
+  weight: 60
+- identifier: 7aadf934-9df8-d886-6462-55a5ab83e424
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 70
+- identifier: e1fcf32b-4074-4d0b-91da-5325edbc2ef1
+  name: Final 18.06 Lecture 2023
+  pageRef: /pages/final-1806-lecture-2023
+  weight: 80
+- identifier: 8b8f9078-a29f-76c6-feba-bd9497648433
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
+- identifier: 754d6be4-ca3c-378b-6c8b-2e4a955ffe64
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 100
+- identifier: 451c7be3-3c2f-f17f-4881-adfa981fc5e7
+  name: Meet the TAs
+  pageRef: /pages/syllabus/meet-the-tas
+  parent: d8efae91-2fd6-02f9-ac2e-2cb9d064d22e
+  weight: 10
+- identifier: ee886403-2dd8-29b4-83a2-ae7dfeb2da55
+  name: The Geometry of Linear Equations
+  pageRef: /pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 10
+- identifier: ff755187-ef48-26e2-abaf-b9c76026cfdb
+  name: An Overview of Key Ideas
+  pageRef: /pages/ax-b-and-the-four-subspaces/an-overview-of-key-ideas
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 20
+- identifier: 060c0abf-f399-49c6-f5be-ff6291e747a5
+  name: Elimination with Matrices
+  pageRef: /pages/ax-b-and-the-four-subspaces/elimination-with-matrices
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 30
+- identifier: c6606cdd-9775-d774-f694-cdc5e6c30381
+  name: Multiplication and Inverse Matrices
+  pageRef: /pages/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 40
+- identifier: 2817c81b-0904-0d03-c0c6-34f006d5a20d
+  name: Factorization into A = LU
+  pageRef: /pages/ax-b-and-the-four-subspaces/factorization-into-a-lu
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 50
+- identifier: 78c64d70-411e-e481-e2bb-d7a7244a0bf3
+  name: Transposes, Permutations, Vector Spaces
+  pageRef: /pages/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 60
+- identifier: bb16f055-bb0c-2fa6-b00b-24a82c138877
+  name: Column Space and Nullspace
+  pageRef: /pages/ax-b-and-the-four-subspaces/column-space-and-nullspace
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 70
+- identifier: 0689e9a0-f66b-a169-b57a-71e60e59cfa2
+  name: 'Solving Ax = 0: Pivot Variables, Special Solutions'
+  pageRef: /pages/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 80
+- identifier: 5fa61a8a-cb4b-ace2-b291-fa9364395075
+  name: 'Solving Ax = b: Row Reduced Form R'
+  pageRef: /pages/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 90
+- identifier: f4986e82-13a7-cf7c-ebaa-aba5fa7882f0
+  name: Independence, Basis and Dimension
+  pageRef: /pages/ax-b-and-the-four-subspaces/independence-basis-and-dimension
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 100
+- identifier: 0050fe07-f47a-b375-ac0f-3abe492f8ae1
+  name: The Four Fundamental Subspaces
+  pageRef: /pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 110
+- identifier: edaea805-267a-c1a3-9a73-e8d7f348edba
+  name: Matrix Spaces; Rank 1; Small World Graphs
+  pageRef: /pages/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 120
+- identifier: 8be90057-9381-41d7-712d-45f0e42d1cfc
+  name: Graphs, Networks, Incidence Matrices
+  pageRef: /pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 130
+- identifier: e451ffac-351d-687a-8b19-3c0159c4b2a7
+  name: Exam 1 Review
+  pageRef: /pages/ax-b-and-the-four-subspaces/exam-1-review
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 140
+- identifier: f5c6f676-32a0-d7e7-bcdf-bc97569b662f
+  name: Exam 1
+  pageRef: /pages/ax-b-and-the-four-subspaces/exam-1
+  parent: 34303ce1-9b45-7241-22d2-bd33d64df688
+  weight: 150
+- identifier: fd8c8a4d-fa1b-e88c-ec23-abef203fca2a
+  name: Orthogonal Vectors and Subspaces
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 10
+- identifier: 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10
+  name: Projections onto Subspaces
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/projections-onto-subspaces
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 20
+- identifier: 5f12aef9-0a3e-a658-e59c-e968a672c0c2
+  name: Projection Matrices and Least Squares
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 30
+- identifier: 2376f3e0-0c4d-e0f6-6346-53041d685aed
+  name: Orthogonal Matrices and Gram-Schmidt
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 40
+- identifier: db45d276-fad6-eb49-f42e-287aaa9e22b6
+  name: Properties of Determinants
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/properties-of-determinants
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 50
+- identifier: 172571ec-1468-8c38-e3a6-02925af8e7d9
+  name: Determinant Formulas and Cofactors
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 60
+- identifier: 86cb2711-cb7c-4313-42de-c1540dfe8ce2
+  name: Cramer's Rule, Inverse Matrix and Volume
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 70
+- identifier: 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7
+  name: Eigenvalues and Eigenvectors
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 80
+- identifier: dcb9a660-b4e1-e1d4-837b-ad83344a716e
+  name: Diagonalization and Powers of A
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 90
+- identifier: 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74
+  name: Differential Equations and exp(At)
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 100
+- identifier: 944c197c-016a-0c53-8f01-08eac297793a
+  name: Markov Matrices; Fourier Series
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 110
+- identifier: 1d326649-6e08-30e5-7e06-9f94d70f88bb
+  name: Exam 2 Review
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/exam-2-review
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 120
+- identifier: afe66f8e-2c8a-f216-34f4-261b58ca7f09
+  name: Exam 2
+  pageRef: /pages/least-squares-determinants-and-eigenvalues/exam-2
+  parent: cf73d07a-c972-ab3c-450a-0f10d0be0664
+  weight: 130
+- identifier: 83daa789-4c9b-a2c7-ac6c-afe27aef0e1c
+  name: Symmetric Matrices and Positive Definiteness
+  pageRef: /pages/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 10
+- identifier: d2f78aa2-97e6-82cc-aea1-20a362c5d934
+  name: Complex Matrices; Fast Fourier Transform (FFT)
+  pageRef: /pages/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 20
+- identifier: c75e4546-e980-a4f3-4fba-9c17295b6b7b
+  name: Positive Definite Matrices and Minima
+  pageRef: /pages/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 30
+- identifier: b358f2d2-8636-54b7-503b-47b34cc0953a
+  name: Similar Matrices and Jordan Form
+  pageRef: /pages/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 40
+- identifier: 30164ec6-9f85-8d02-0a13-78d8b9c366fe
+  name: Singular Value Decomposition
+  pageRef: /pages/positive-definite-matrices-and-applications/singular-value-decomposition
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 50
+- identifier: 9b3392d9-9beb-d110-47c3-6d07bc404bbc
+  name: Linear Transformations and their Matrices
+  pageRef: /pages/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 60
+- identifier: 7b90bea0-f6ce-9bfd-c750-ada6103da88c
+  name: Change of Basis; Image Compression
+  pageRef: /pages/positive-definite-matrices-and-applications/change-of-basis-image-compression
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 70
+- identifier: ab040c17-91a2-dbfe-0cb9-75cf0190634f
+  name: Left and Right Inverses; Pseudoinverse
+  pageRef: /pages/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 80
+- identifier: 832ceb87-f20f-cd83-981c-236a6c11e277
+  name: Exam 3 Review
+  pageRef: /pages/positive-definite-matrices-and-applications/exam-3-review
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 90
+- identifier: 3921e359-ef46-ef69-930f-0c922b456485
+  name: Exam 3
+  pageRef: /pages/positive-definite-matrices-and-applications/exam-3
+  parent: 34f596bc-2328-22be-5fba-75646f6970c5
+  weight: 100

@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "b89637d2-d64a-bf78-96f6-04f5d40d48a9",
+  "instructors": {
+    "content": [
+      "84b06ab4-b3e7-63cc-f537-5507e60fa961"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ad862b68-e232-3331-fd3e-e944ed704f38",
+    "website": "18-06sc-linear-algebra-fall-2011"
+  },
+  "course_title": "Linear Algebra",
+  "hide_download": true,
+  "course_description": "This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering. It parallels the combination of theory and applications in Professor Strang\u2019s textbook [_Introduction to Linear Algebra_](http://math.mit.edu/~gs/linearalgebra/).\n\nCourse Format\n\nThis course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n- A complete set of **Lecture Videos** by Professor Gilbert Strang.\n- **Summary Notes** for all videos along with suggested readings in Prof. Strang's textbook [_Linear Algebra_](http://math.mit.edu/~gs/linearalgebra/).\n- **Problem Solving Videos** on every topic taught by an experienced MIT Recitation Instructor.\n- **Problem Sets** to do on your own with **Solutions** to check your answers against when you're done.\n- A selection of **Java\u00ae Demonstrations** to illustrate key concepts.\n- A full set of **Exams with Solutions**, including review material to help you prepare.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.06SC",
+  "course_image_thumbnail": {
+    "content": "ecd40b5c-89e0-3d94-83b1-a25656487d63",
+    "website": "18-06sc-linear-algebra-fall-2011"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem-solving Videos",
+    "Problem Sets with Solutions",
+    "Simulations",
+    "Instructor Insights"
+  ],
+  "site_uid": "23d385b4-4328-4fb0-b398-f5ca46ecae9a",
+  "site_short_id": "18.06sc-fall-2011",
+  "site_url_path": "courses/18-06sc-linear-algebra-fall-2011",
+  "title": "Course Metadata"
+}
