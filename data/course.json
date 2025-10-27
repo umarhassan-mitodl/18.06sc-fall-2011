@@ -22,8 +22,7 @@
     "website": "18-06sc-linear-algebra-fall-2011"
   },
   "course_title": "Linear Algebra",
-  "hide_download": true,
-  "course_description": "This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering. It parallels the combination of theory and applications in Professor Strang\u2019s textbook [_Introduction to Linear Algebra_](http://math.mit.edu/~gs/linearalgebra/).\n\nCourse Format\n\nThis course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n- A complete set of **Lecture Videos** by Professor Gilbert Strang.\n- **Summary Notes** for all videos along with suggested readings in Prof. Strang's textbook [_Linear Algebra_](http://math.mit.edu/~gs/linearalgebra/).\n- **Problem Solving Videos** on every topic taught by an experienced MIT Recitation Instructor.\n- **Problem Sets** to do on your own with **Solutions** to check your answers against when you're done.\n- A selection of **Java\u00ae Demonstrations** to illustrate key concepts.\n- A full set of **Exams with Solutions**, including review material to help you prepare.",
+  "course_description": "This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering. It parallels the combination of theory and applications in Professor Strang\u2019s textbook {{% resource_link \"f56bbd95-0ed5-492d-b951-4d89f760ba72\" \"_Introduction to Linear Algebra_\" %}}.\n\nCourse Format\n\nThis course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n- A complete set of **Lecture Videos** by Professor Gilbert Strang.\n- **Summary Notes** for all videos along with suggested readings in Prof. Strang's textbook {{% resource_link \"f56bbd95-0ed5-492d-b951-4d89f760ba72\" \"_Linear Algebra_\" %}}.\n- **Problem Solving Videos** on every topic taught by an experienced MIT Recitation Instructor.\n- **Problem Sets** to do on your own with **Solutions** to check your answers against when you're done.\n- A selection of **Java\u00ae Demonstrations** to illustrate key concepts.\n- A full set of **Exams with Solutions**, including review material to help you prepare.",
   "department_numbers": [
     "18"
   ],
@@ -33,7 +32,6 @@
     "content": "ecd40b5c-89e0-3d94-83b1-a25656487d63",
     "website": "18-06sc-linear-algebra-fall-2011"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Exams with Solutions",
