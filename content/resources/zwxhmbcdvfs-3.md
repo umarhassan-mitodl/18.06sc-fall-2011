@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-06sc-linear-algebra-fall-2011/e4c83d4ecccf6b842cd326d377fafb10_zWxhmBCdvFs.pdf
 file_size: 19180
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

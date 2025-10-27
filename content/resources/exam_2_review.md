@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-06sc-linear-algebra-fall-2011/dfe25c7f5e38dbd4a19c081f05fc9ae0_Exam_2_Review.jpg
 file_size: 5305
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

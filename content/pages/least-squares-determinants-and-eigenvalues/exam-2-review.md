@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides review materials for the second exam of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
